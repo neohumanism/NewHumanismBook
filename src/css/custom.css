@@ -30,3 +30,6 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 h2 {
   font-size: 1em;
 }
+p {
+  font-size 0.7em;
+}
