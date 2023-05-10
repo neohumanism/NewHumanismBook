@@ -1,4 +1,4 @@
-1. What now?: The fate of humanity.
+# 1. What now?: The fate of humanity.
 
 ---
 
