@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# THE FATE OF HUMANITY: MANIFESTO OF THE FINAL HUMAN -ISM
+# About the book
 
 ---
 
