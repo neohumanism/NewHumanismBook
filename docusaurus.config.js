@@ -38,9 +38,9 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Life Optimization Manifesto",
+        title: "The Fate of Humanity",
         logo: {
-          alt: "Website Logo - A colored brain",
+          alt: "Website Logo - A humand hand",
           src: "img/logo.svg",
         },
         items: [
