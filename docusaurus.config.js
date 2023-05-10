@@ -4,15 +4,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Life Optimization Manifesto",
-  tagline: "For a better life",
-  url: "https://your-docusaurus-test-site.com",
+  title: "The Fate of Humanity",
+  tagline: "Humanity is in peril and it falls on us to find a solution.",
+  url: "https://human-urgency-book.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
-  organizationName: "enlightenedExplorer", // Usually your GitHub org/user name.
-  projectName: "LifeOptimizationManifesto", // Usually your repo name.
+  organizationName: "enlightenedExplorers", // Usually your GitHub org/user name.
+  projectName: "HumanUrgencyBook", // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +24,7 @@ module.exports = {
           path: "book",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/EnlightenedExplorer/LifeOptimizationManifesto/blob/main/",
+            "https://github.com/neohumanism/HumanUrgencyBook/blob/main/",
         },
         blog: false,
         theme: {
@@ -51,19 +51,19 @@ module.exports = {
             label: "Book",
           },
           {
-            href: "https://discord.gg/hQPKCZYVmq",
+            href: "https://discord.gg/", //TBD
             label: "Discord",
             position: "right",
           },
           {
-            href: "https://github.com/EnlightenedExplorer/LifeOptimizationManifesto",
+            href: "https://github.com/neohumanism/HumanUrgencyBook/",
             label: "GitHub",
             position: "right",
           },
         ],
       },
       footer: {
-        copyright: `Copyright © ${new Date().getFullYear()} Life Optimization Manifesto. Built with Docusaurus.`,
+        copyright: `Free Use. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
