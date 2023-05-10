@@ -17,12 +17,12 @@ We live in a tumultuous time, one requiring immense cohesion and understanding t
 
 ## How to Contribute
 
-TBD --- We welcome contributions from individuals who share our passion for life optimization! If you'd like to contribute, please access our [Contribution Guide](/A%20General%20Overview/Contributing).
+TBD ---
 
 ## Community
 
-TBD --- Also join our [Discord server](https://discord.gg/your-invite-link) to connect with like-minded individuals, discuss life optimization techniques, and contribute to the ongoing development of this open-source guide.
+TBD ---
 
 ## Disclaimer
 
-TBD --- The information provided in this guide is intended for informational and educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult your healthcare provider before making any changes to your health or wellness routine. See more in [Legal Disclaimer](/A%20General%20Overview/Disclaimer).
+TBD --- 
