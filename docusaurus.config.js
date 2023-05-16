@@ -4,15 +4,15 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "The Fate of Humanity",
-  tagline: "Humanity is in peril and it falls on us to find a solution.",
-  url: "https://human-urgency-book.vercel.app/",
+  title: "The Universal Truth of Humankind",
+  tagline: "A book about human society.",
+  url: "https://new-humanism-book.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.png",
   organizationName: "enlightenedExplorers", // Usually your GitHub org/user name.
-  projectName: "HumanUrgencyBook", // Usually your repo name.
+  projectName: "NewHumanismBook", // Usually your repo name.
 
   presets: [
     [
@@ -24,7 +24,7 @@ module.exports = {
           path: "book",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/neohumanism/HumanUrgencyBook/blob/main/",
+            "https://github.com/neohumanism/NewHumanismBook/blob/main/",
         },
         blog: false,
         theme: {
@@ -38,7 +38,7 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "The Fate of Humanity",
+        title: "The Universal Truth of Humankind",
         logo: {
           alt: "Website Logo - A humand hand",
           src: "img/logo.svg",
@@ -56,7 +56,7 @@ module.exports = {
             position: "right",
           },
           {
-            href: "https://github.com/neohumanism/HumanUrgencyBook/",
+            href: "https://github.com/neohumanism/NewHumanismBook/",
             label: "GitHub",
             position: "right",
           },

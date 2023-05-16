@@ -1,5 +1,5 @@
 # What is this?
-This is the repository for a book aiming to solve humanity's future.
+This is the second book.
 
 # Format
 The format is copied from: 
