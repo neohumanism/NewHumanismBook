@@ -3,22 +3,8 @@ sidebar_position: 1
 slug: /
 ---
 
-# Overview
+# Introduction
 
 ---
 
-## Foreword
-
-You should read book 1 first.
-
-## How to Contribute
-
-TBD ---
-
-## Community
-
-TBD ---
-
-## Disclaimer
-
-TBD --- 
+Now, we have not just the fire, but the thunderbolt itself. And if the hero of fire was merely imprisoned, what fate awaits us?
