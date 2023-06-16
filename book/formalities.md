@@ -15,6 +15,7 @@ You should read book 1 first.
 NOTICES:
 - Extremely unfinished.
 - Written rather informally and non-fancily until we find a style of writing that suits this.
+- (There is also some more text elsewhere that is yet to be written in).
 
 RULES:
 - If there are non-jargon words or phrasing you find too obscure, replace them. This is supposed to be as easily told as possible, even at the expense of some accuracy and nuance. This book should be useable for a layman.

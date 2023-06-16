@@ -5,7 +5,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: "The Universal Truth of Humankind",
-  tagline: "A book about human society.",
+  tagline: "A book about humanity.",
   url: "https://new-humanism-book.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -51,7 +51,7 @@ module.exports = {
             label: "Book",
           },
           {
-            href: "https://discord.gg/", //TBD
+            href: "https://discord.gg/7c22tHCuZX",
             label: "Discord",
             position: "right",
           },
@@ -63,7 +63,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `Free Use. Built with Docusaurus.`,
+        copyright: `By writing here you agree not to claim ownership of what you write. And you also agree not to hold us responsible if you break your leg or something.`,
       },
       prism: {
         theme: lightCodeTheme,
