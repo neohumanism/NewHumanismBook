@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ---
 
-//still not entirely sure what should go where and etc.1
+//still not entirely sure what should go where and etc.
 
 1 The Human Reality - About the human perspective of the world, themselves, metaphysical realities, and etc.
 
