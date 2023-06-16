@@ -63,7 +63,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `By writing here you agree not to claim ownership of what you write. And you also agree not to hold us responsible if you break your leg or something.`,
+        copyright: `By writing here you agree not to claim ownership of what you write. And you also agree not to hold anyone responsible if you break a leg or something.`,
       },
       prism: {
         theme: lightCodeTheme,
