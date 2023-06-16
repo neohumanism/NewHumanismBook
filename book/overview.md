@@ -19,5 +19,3 @@ sidebar_position: 2
 5 Human Bonds - How human relations should be, according to The Human Tradition.
 
 6 Human Societies - How society should be, according to The Human Tradition.
-
-7 Human Salvation - About doomsday. //do we need this one? it sort of already goes under 2
